@@ -1,8 +1,6 @@
 # JSON Generator
 JSON Generator has a simple and convenient syntax. JSON Generator allowing users to generate fake data based on a template. It has been designed for simplicity. For this reason we do not follow JSON schema standard! 
 
-[![Website gtavasoli.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://gtavasoli.com/programming/%d8%aa%d9%88%d9%84%db%8c%d8%af-json-%d8%aa%d8%b5%d8%a7%d8%af%d9%81%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/gtavasoli_me)
 
 ## Table of Contents
 - [Usage](#usage)
@@ -57,7 +55,3 @@ JSON Generator use [Faker](https://github.com/joke2k/faker) package. Faker can t
 - Performance Analysis
 - Setup script
 
-## LICENSE
-All of the codebase are MIT licensed unless otherwise specified. 
-
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
