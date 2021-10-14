@@ -12,6 +12,15 @@ JSON Generator has a simple and convenient syntax. JSON Generator allowing users
 ## Usage
 Using of JSON Generator is straightforward. First, you must define your JSON template by our simple API. This template is in JSON format. Then, you must call generate function with your JSON template as input. Generate function makes a random JSON object based on your JSON template as the return value. 
 
+##Implemantation
+run with ```python main.py ``` ```path/to/jsonfiletobegenerate``` ```path/to/jsonoutput```
+###for windows
+
+ For windows path use double \\ after each directory 
+
+ like C:\\user\\Documents\\any_folder\\file_name.json
+
+
 For your convenience, we provide a script (main.py) that load template from file and generate random JSON object. There is multiple template file in this repository.
 
 ## API
@@ -33,7 +42,8 @@ For your convenience, we provide a script (main.py) that load template from file
 | Phone | Generates random phone number.  | ```Phone()``` | | String |
 | Repeat | Clones next item in specified range of repeats to make an array. Repeatable object must come exactly after repear command in template | ```"{{repeat(min, [max])}}",  'this object will be repeated'``` | ```min``` Minimum number of repeats, ```max``` Maximum number of repeats | Array |
 | State | Random state name. | ```state()``` | | String |
-| Last name | Random last bane | ```last_name()``` | | String |
+| Last name | Random last name | ```last_name()``` | | String |
+| date | Random date | ```dategen()```| if want to change interval change it in /method/dategen.py|String|
 
 Using this syntax ```"field_name|optional"``` in a field name you can make a field as an optional field.
 
@@ -41,12 +51,10 @@ Using this syntax ```"field_name|optional"``` in a field name you can make a fie
 JSON Generator use [Faker](https://github.com/joke2k/faker) package. Faker can take locale as and argument, to return localized data. You can change it with LOCALE variable in locale.py. Default value for LOCALE is ```en_US```.
 
 ## ToDo
-- Date function
 - Time Zone
 - Gender for first name
 - Format for floating
 - Custom function
-- Random number based on Gaussian distribution (gauss)
 - Clone object (index)
 - Negative random number
 - Lorem Ipsum!
@@ -55,3 +63,4 @@ JSON Generator use [Faker](https://github.com/joke2k/faker) package. Faker can t
 - Performance Analysis
 - Setup script
 
+#Author :  Siddhant Saraf

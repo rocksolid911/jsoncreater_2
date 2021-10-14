@@ -1,109 +1,7 @@
 [
     {
-        "S40_User_Assignment_Rel_Id": 8,
-        "S40_Student_Name": "Rhonda Chandler",
-        "S40_Submitted_Assignments": [
-            {
-                "S40_Submitted_Answer_Documents_Id": 2,
-                "S40_Submitted_Answer_Document_Base64": "",
-                "S40_Submitted_Answer_Document_Name": "sample",
-                "S40_Submitted_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Corrected_Assignments": [
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 10,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            },
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 10,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample2",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Assignment_Ratings": 6,
-        "S40_Student_Remarks": "i am having confusion",
-        "S40_Assignment_Status": "Rejected",
-        "S40_Assignment_Type": "record",
-        "S40_Teacher_Remarks": "need improvement",
-        "S40_Submitted_Date": "2014-09-16 01:36:03.245503",
-        "S40_Reviewed_Date": "1903-07-21 05:06:24.473282",
-        "S40_Assignments_Id": 9
-    },
-    {
-        "S40_User_Assignment_Rel_Id": 7,
-        "S40_Student_Name": "Tracy Pennington",
-        "S40_Submitted_Assignments": [
-            {
-                "S40_Submitted_Answer_Documents_Id": 1,
-                "S40_Submitted_Answer_Document_Base64": "",
-                "S40_Submitted_Answer_Document_Name": "sample",
-                "S40_Submitted_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Corrected_Assignments": [
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 7,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            },
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 3,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample2",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Assignment_Ratings": 8,
-        "S40_Student_Remarks": "i am having confusion",
-        "S40_Assignment_Status": "Accepted",
-        "S40_Assignment_Type": "record",
-        "S40_Teacher_Remarks": "need improvement",
-        "S40_Submitted_Date": "1956-08-10 06:36:13.485024",
-        "S40_Reviewed_Date": "1916-01-10 08:48:40.364429",
-        "S40_Assignments_Id": 3
-    },
-    {
-        "S40_User_Assignment_Rel_Id": 6,
-        "S40_Student_Name": "Jeremiah Ramirez",
-        "S40_Submitted_Assignments": [
-            {
-                "S40_Submitted_Answer_Documents_Id": 6,
-                "S40_Submitted_Answer_Document_Base64": "",
-                "S40_Submitted_Answer_Document_Name": "sample",
-                "S40_Submitted_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Corrected_Assignments": [
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 3,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            },
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 2,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample2",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Assignment_Ratings": 6,
-        "S40_Student_Remarks": "i am having confusion",
-        "S40_Assignment_Status": "Accepted",
-        "S40_Assignment_Type": "record",
-        "S40_Teacher_Remarks": "need improvement",
-        "S40_Submitted_Date": "1984-05-25 21:41:12.146072",
-        "S40_Reviewed_Date": "1973-09-10 01:12:14.417286",
-        "S40_Assignments_Id": 8
-    },
-    {
-        "S40_User_Assignment_Rel_Id": 4,
-        "S40_Student_Name": "Christopher Cox",
+        "S40_User_Assignment_Rel_Id": 9,
+        "S40_Student_Name": "Tyler Walter",
         "S40_Submitted_Assignments": [
             {
                 "S40_Submitted_Answer_Documents_Id": 7,
@@ -114,7 +12,143 @@
         ],
         "S40_Corrected_Assignments": [
             {
+                "PAS_S40_Corrected_Answer_Documents_Id": 0,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            },
+            {
                 "PAS_S40_Corrected_Answer_Documents_Id": 7,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample2",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Assignment_Ratings": 9,
+        "S40_Student_Remarks": "i am having confusion",
+        "S40_Assignment_Status": "Accepted",
+        "S40_Assignment_Type": "record",
+        "S40_Teacher_Remarks": "need improvement",
+        "S40_Submitted_Date": "1970-06-13 20:42:13.745903",
+        "S40_Reviewed_Date": "1971-10-30 12:54:37.999764",
+        "S40_Assignments_Id": 2
+    },
+    {
+        "S40_User_Assignment_Rel_Id": 0,
+        "S40_Student_Name": "Ross Rodriguez",
+        "S40_Submitted_Assignments": [
+            {
+                "S40_Submitted_Answer_Documents_Id": 9,
+                "S40_Submitted_Answer_Document_Base64": "",
+                "S40_Submitted_Answer_Document_Name": "sample",
+                "S40_Submitted_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Corrected_Assignments": [
+            {
+                "PAS_S40_Corrected_Answer_Documents_Id": 9,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            },
+            {
+                "PAS_S40_Corrected_Answer_Documents_Id": 3,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample2",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Assignment_Ratings": 4,
+        "S40_Student_Remarks": "i am having confusion",
+        "S40_Assignment_Status": "Rejected",
+        "S40_Assignment_Type": "record",
+        "S40_Teacher_Remarks": "need improvement",
+        "S40_Submitted_Date": "1919-10-02 14:04:19.329158",
+        "S40_Reviewed_Date": "1947-06-17 14:42:48.006379",
+        "S40_Assignments_Id": 4
+    },
+    {
+        "S40_User_Assignment_Rel_Id": 10,
+        "S40_Student_Name": "Miss Tina Melton",
+        "S40_Submitted_Assignments": [
+            {
+                "S40_Submitted_Answer_Documents_Id": 0,
+                "S40_Submitted_Answer_Document_Base64": "",
+                "S40_Submitted_Answer_Document_Name": "sample",
+                "S40_Submitted_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Corrected_Assignments": [
+            {
+                "PAS_S40_Corrected_Answer_Documents_Id": 9,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            },
+            {
+                "PAS_S40_Corrected_Answer_Documents_Id": 7,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample2",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Assignment_Ratings": 8,
+        "S40_Student_Remarks": "i am having confusion",
+        "S40_Assignment_Status": "Accepted",
+        "S40_Assignment_Type": "portfolio",
+        "S40_Teacher_Remarks": "need improvement",
+        "S40_Submitted_Date": "1902-01-08 19:17:47.727949",
+        "S40_Reviewed_Date": "1943-02-14 04:37:32.077909",
+        "S40_Assignments_Id": 0
+    },
+    {
+        "S40_User_Assignment_Rel_Id": 4,
+        "S40_Student_Name": "Charles Henderson",
+        "S40_Submitted_Assignments": [
+            {
+                "S40_Submitted_Answer_Documents_Id": 0,
+                "S40_Submitted_Answer_Document_Base64": "",
+                "S40_Submitted_Answer_Document_Name": "sample",
+                "S40_Submitted_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Corrected_Assignments": [
+            {
+                "PAS_S40_Corrected_Answer_Documents_Id": 3,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            },
+            {
+                "PAS_S40_Corrected_Answer_Documents_Id": 7,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample2",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Assignment_Ratings": 0,
+        "S40_Student_Remarks": "i am having confusion",
+        "S40_Assignment_Status": "Rejected",
+        "S40_Assignment_Type": "Homework",
+        "S40_Teacher_Remarks": "need improvement",
+        "S40_Submitted_Date": "1987-11-16 23:30:36.332229",
+        "S40_Reviewed_Date": "1934-10-12 20:36:44.540382",
+        "S40_Assignments_Id": 0
+    },
+    {
+        "S40_User_Assignment_Rel_Id": 3,
+        "S40_Student_Name": "Steve Bradley",
+        "S40_Submitted_Assignments": [
+            {
+                "S40_Submitted_Answer_Documents_Id": 4,
+                "S40_Submitted_Answer_Document_Base64": "",
+                "S40_Submitted_Answer_Document_Name": "sample",
+                "S40_Submitted_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Corrected_Assignments": [
+            {
+                "PAS_S40_Corrected_Answer_Documents_Id": 8,
                 "S40_Corrected_Answer_Document_Base64": "",
                 "S40_Corrected_Answer_Document_Name": "sample",
                 "S40_Corrected_Answer_Document_Extension": "pdf"
@@ -126,81 +160,47 @@
                 "S40_Corrected_Answer_Document_Extension": "pdf"
             }
         ],
-        "S40_Assignment_Ratings": 6,
+        "S40_Assignment_Ratings": 3,
         "S40_Student_Remarks": "i am having confusion",
         "S40_Assignment_Status": "Rejected",
-        "S40_Assignment_Type": "record",
-        "S40_Teacher_Remarks": "need improvement",
-        "S40_Submitted_Date": "1934-06-19 02:10:45.510896",
-        "S40_Reviewed_Date": "1985-10-26 05:31:28.359069",
-        "S40_Assignments_Id": 0
-    },
-    {
-        "S40_User_Assignment_Rel_Id": 3,
-        "S40_Student_Name": "Harold Booker",
-        "S40_Submitted_Assignments": [
-            {
-                "S40_Submitted_Answer_Documents_Id": 5,
-                "S40_Submitted_Answer_Document_Base64": "",
-                "S40_Submitted_Answer_Document_Name": "sample",
-                "S40_Submitted_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Corrected_Assignments": [
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 4,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            },
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 0,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample2",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Assignment_Ratings": 8,
-        "S40_Student_Remarks": "i am having confusion",
-        "S40_Assignment_Status": "Rejected",
-        "S40_Assignment_Type": "record",
-        "S40_Teacher_Remarks": "need improvement",
-        "S40_Submitted_Date": "1928-05-03 01:11:07.075145",
-        "S40_Reviewed_Date": "1974-05-27 12:05:01.971940",
-        "S40_Assignments_Id": 5
-    },
-    {
-        "S40_User_Assignment_Rel_Id": 5,
-        "S40_Student_Name": "Gina Clements",
-        "S40_Submitted_Assignments": [
-            {
-                "S40_Submitted_Answer_Documents_Id": 3,
-                "S40_Submitted_Answer_Document_Base64": "",
-                "S40_Submitted_Answer_Document_Name": "sample",
-                "S40_Submitted_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Corrected_Assignments": [
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 0,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            },
-            {
-                "PAS_S40_Corrected_Answer_Documents_Id": 1,
-                "S40_Corrected_Answer_Document_Base64": "",
-                "S40_Corrected_Answer_Document_Name": "sample2",
-                "S40_Corrected_Answer_Document_Extension": "pdf"
-            }
-        ],
-        "S40_Assignment_Ratings": 10,
-        "S40_Student_Remarks": "i am having confusion",
-        "S40_Assignment_Status": "Accepted",
         "S40_Assignment_Type": "Homework",
         "S40_Teacher_Remarks": "need improvement",
-        "S40_Submitted_Date": "1994-10-16 11:08:50.839907",
-        "S40_Reviewed_Date": "1946-03-03 15:33:44.418087",
-        "S40_Assignments_Id": 4
+        "S40_Submitted_Date": "1955-07-22 15:17:55.024896",
+        "S40_Reviewed_Date": "2009-03-23 12:20:25.782472",
+        "S40_Assignments_Id": 3
+    },
+    {
+        "S40_User_Assignment_Rel_Id": 2,
+        "S40_Student_Name": "David Morrison",
+        "S40_Submitted_Assignments": [
+            {
+                "S40_Submitted_Answer_Documents_Id": 7,
+                "S40_Submitted_Answer_Document_Base64": "",
+                "S40_Submitted_Answer_Document_Name": "sample",
+                "S40_Submitted_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Corrected_Assignments": [
+            {
+                "PAS_S40_Corrected_Answer_Documents_Id": 3,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            },
+            {
+                "PAS_S40_Corrected_Answer_Documents_Id": 9,
+                "S40_Corrected_Answer_Document_Base64": "",
+                "S40_Corrected_Answer_Document_Name": "sample2",
+                "S40_Corrected_Answer_Document_Extension": "pdf"
+            }
+        ],
+        "S40_Assignment_Ratings": 3,
+        "S40_Student_Remarks": "i am having confusion",
+        "S40_Assignment_Status": "Rejected",
+        "S40_Assignment_Type": "Homework",
+        "S40_Teacher_Remarks": "need improvement",
+        "S40_Submitted_Date": "1942-11-29 10:53:36.112619",
+        "S40_Reviewed_Date": "1947-03-02 07:18:26.134810",
+        "S40_Assignments_Id": 8
     }
 ]
