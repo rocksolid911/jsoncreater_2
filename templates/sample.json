@@ -1,0 +1,34 @@
+{
+    "S40_User_Assignment_Rel_Id": "{{integer()}}",
+    "S40_Student_Name": "{{name()}}",
+    "S40_Submitted_Assignments": [
+        {
+            "S40_Submitted_Answer_Documents_Id": "{{integer()}}",
+            "S40_Submitted_Answer_Document_Base64": ,
+            "S40_Submitted_Answer_Document_Name": "sample",
+            "S40_Submitted_Answer_Document_Extension": "pdf"
+        }
+    ],
+    "S40_Corrected_Assignments": [
+        {
+            "PAS_S40_Corrected_Answer_Documents_Id": "{{integer()}}",
+            "S40_Corrected_Answer_Document_Base64":"" ,
+            "S40_Corrected_Answer_Document_Name": "sample",
+            "S40_Corrected_Answer_Document_Extension": "pdf"
+        },
+        {
+            "PAS_S40_Corrected_Answer_Documents_Id": "{{integer()}}",
+            "S40_Corrected_Answer_Document_Base64":"" ,
+            "S40_Corrected_Answer_Document_Name": "sample2",
+            "S40_Corrected_Answer_Document_Extension": "pdf"
+        }
+    ],
+    "S40_Assignment_Ratings": "{{integer()}}",
+    "S40_Student_Remarks": "i am having confusion",
+    "S40_Assignment_Status":"{{choice([\"Accepted\", \"Rejected\"])}}",
+    "S40_Assignment_Type":"{{choice([\"Homework\", \"record\", \"portfolio\"])}}",
+    "S40_Teacher_Remarks": "need improvement",
+    "S40_Submitted_Date": 2021-04-01,
+    "S40_Reviewed_Date": 2021-03-30,
+    "S40_Assignments_Id": 7
+}
